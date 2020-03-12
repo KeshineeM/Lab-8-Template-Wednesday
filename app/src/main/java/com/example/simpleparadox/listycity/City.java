@@ -5,6 +5,7 @@ public class City implements Comparable<City>{
     private String province;
 
     City(String city, String province){
+        int a = 10;
         this.city = city;
         this.province = province;
     }
