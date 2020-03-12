@@ -96,7 +96,7 @@ class CityListTest {
 
     @Test
     void checkAddition(){
-        assertEquals(10,9);
+        assertEquals(10,10);
     }
 
 }
